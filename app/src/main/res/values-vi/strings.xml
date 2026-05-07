@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Thử Thách Ngẫu Nhiên</string>
+    <string name="app_title">THỬ THÁCH\nNGẪU NHIÊN</string>
+    <string name="app_subtitle">KHÔNG LÝ DO</string>
+
+    <!-- Difficulty -->
+    <string name="difficulty_easy">DỄ</string>
+    <string name="difficulty_medium">VỪA</string>
+    <string name="difficulty_hard">KHÓ</string>
+
+    <!-- Card states -->
+    <string name="card_idle_title">Quay để nhận thử thách</string>
+    <string name="card_idle_subtitle">Chọn độ khó và nhấn nút</string>
+
+    <!-- Buttons -->
+    <string name="roll_button">QUAY THỬ THÁCH</string>
+    <string name="rolling_button">ĐANG QUAY…</string>
+
+    <!-- Challenge metadata -->
+    <string name="timed_challenge_label">⏱ THỬ THÁCH TÍNH GIỜ</string>
+    <string name="duration_minutes">%d phút</string>
+    <string name="duration_seconds">%d giây</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Cài đặt</string>
+    <string name="settings_language">Ngôn ngữ</string>
+    <string name="language_english">English</string>
+    <string name="language_vietnamese">Tiếng Việt</string>
+
+    <!-- Easy challenges -->
+    <string name="challenge_1_label">20 Hít Đất</string>
+    <string name="challenge_1_desc">Tư thế chống đẩy chuẩn, hạ hết tầm</string>
+    <string name="challenge_2_label">30 Squat</string>
+    <string name="challenge_2_desc">Chân rộng bằng vai, hạ dưới song song</string>
+    <string name="challenge_3_label">40 Jumping Jack</string>
+    <string name="challenge_3_desc">Duỗi hết tầm mỗi lần nhảy</string>
+    <string name="challenge_4_label">Ngồi Tựa Tường 1 Phút</string>
+    <string name="challenge_4_desc">Lưng thẳng, đùi song song với sàn</string>
+    <string name="challenge_5_label">20 Lunge</string>
+    <string name="challenge_5_desc">Đổi chân, đầu gối gần chạm sàn</string>
+
+    <!-- Medium challenges -->
+    <string name="challenge_6_label">15 Burpee</string>
+    <string name="challenge_6_desc">Ngực chạm sàn, nhảy lên trên</string>
+    <string name="challenge_7_label">Plank 1 Phút</string>
+    <string name="challenge_7_desc">Khuỷu tay dưới vai, siết cơ bụng</string>
+    <string name="challenge_8_label">10 Hít Đất Kim Cương</string>
+    <string name="challenge_8_desc">Ngón trỏ và ngón cái chạm nhau</string>
+    <string name="challenge_9_label">25 Pike Push-up</string>
+    <string name="challenge_9_desc">Hông cao, nhắm vào vai</string>
+    <string name="challenge_10_label">30 Leo Núi</string>
+    <string name="challenge_10_desc">Đẩy đầu gối lên ngực, giữ hông thấp</string>
+
+    <!-- Hard challenges -->
+    <string name="challenge_11_label">20 Hít Đất Vỗ Tay</string>
+    <string name="challenge_11_desc">Đẩy mạnh, vỗ tay giữa không</string>
+    <string name="challenge_12_label">10 Chống Đẩy Trồng Chuối</string>
+    <string name="challenge_12_desc">Tựa tường, hạ hết tầm</string>
+    <string name="challenge_13_label">Plank 2 Phút</string>
+    <string name="challenge_13_desc">Giữ tư thế hoàn hảo xuyên suốt</string>
+    <string name="challenge_14_label">30 Squat Nhảy</string>
+    <string name="challenge_14_desc">Nhảy cao nhất mỗi lần</string>
+    <string name="challenge_15_label">20 Archer Push-up</string>
+    <string name="challenge_15_desc">Một tay chịu toàn bộ lực</string>
+</resources>

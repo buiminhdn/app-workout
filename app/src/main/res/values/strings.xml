@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Random Workout</string>
+    <string name="app_title">RANDOM\nCHALLENGE</string>
+    <string name="app_subtitle">NO EXCUSES</string>
+
+    <!-- Difficulty -->
+    <string name="difficulty_easy">EASY</string>
+    <string name="difficulty_medium">MEDIUM</string>
+    <string name="difficulty_hard">HARD</string>
+
+    <!-- Card states -->
+    <string name="card_idle_title">Roll to get your challenge</string>
+    <string name="card_idle_subtitle">Select difficulty and hit the button</string>
+
+    <!-- Buttons -->
+    <string name="roll_button">ROLL CHALLENGE</string>
+    <string name="rolling_button">ROLLING…</string>
+
+    <!-- Challenge metadata -->
+    <string name="timed_challenge_label">⏱ TIMED CHALLENGE</string>
+    <string name="duration_minutes">%d min</string>
+    <string name="duration_seconds">%d sec</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_language">Language</string>
+    <string name="language_english">English</string>
+    <string name="language_vietnamese">Tiếng Việt</string>
+
+    <!-- Easy challenges -->
+    <string name="challenge_1_label">20 Push-ups</string>
+    <string name="challenge_1_desc">Standard push-up position, full range</string>
+    <string name="challenge_2_label">30 Squats</string>
+    <string name="challenge_2_desc">Feet shoulder-width, go below parallel</string>
+    <string name="challenge_3_label">40 Jumping Jacks</string>
+    <string name="challenge_3_desc">Full extension on each rep</string>
+    <string name="challenge_4_label">1 Minute Wall Sit</string>
+    <string name="challenge_4_desc">Back flat, thighs parallel to floor</string>
+    <string name="challenge_5_label">20 Lunges</string>
+    <string name="challenge_5_desc">Alternating legs, knee just off the floor</string>
+
+    <!-- Medium challenges -->
+    <string name="challenge_6_label">15 Burpees</string>
+    <string name="challenge_6_desc">Chest to floor, jump at the top</string>
+    <string name="challenge_7_label">1 Minute Plank</string>
+    <string name="challenge_7_desc">Elbows under shoulders, core tight</string>
+    <string name="challenge_8_label">10 Diamond Push-ups</string>
+    <string name="challenge_8_desc">Index fingers and thumbs touching</string>
+    <string name="challenge_9_label">25 Pike Push-ups</string>
+    <string name="challenge_9_desc">Hips high, target shoulders</string>
+    <string name="challenge_10_label">30 Mountain Climbers</string>
+    <string name="challenge_10_desc">Drive knees to chest, keep hips low</string>
+
+    <!-- Hard challenges -->
+    <string name="challenge_11_label">20 Clap Push-ups</string>
+    <string name="challenge_11_desc">Explosive push, clap mid-air</string>
+    <string name="challenge_12_label">10 Handstand Push-ups</string>
+    <string name="challenge_12_desc">Wall-supported, full range</string>
+    <string name="challenge_13_label">2 Minute Plank</string>
+    <string name="challenge_13_desc">Maintain perfect form throughout</string>
+    <string name="challenge_14_label">30 Jump Squats</string>
+    <string name="challenge_14_desc">Maximum height every rep</string>
+    <string name="challenge_15_label">20 Archer Push-ups</string>
+    <string name="challenge_15_desc">One arm carries the load</string>
+</resources>
